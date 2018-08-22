@@ -1,0 +1,16 @@
+F_100 - RED
+F_101 - BLACK
+
+F_102 - EVEN
+F_103 - ODD
+
+F_104 - 1st 12
+F_105 - 2nd 12
+F_106 - 3rd 12
+
+F_107 - 1 to 18
+F_108 - 19 to 36
+
+F_109 - 2:1 left
+F_110 - 2:1 middle
+F_111 - 2:1 right

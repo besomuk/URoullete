@@ -1,0 +1,5 @@
+- Add chip graphics
+- Add Circle Colider 2D to the chip
+- Add Chip.cs script
+- Adjust value
+

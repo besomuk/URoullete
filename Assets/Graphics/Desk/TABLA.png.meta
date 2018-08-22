@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: b69b20a0aa5598e40b1c08ee4533bcb5
+timeCreated: 1518815522
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: TABLA_0
+    21300002: TABLA_1
+    21300004: TABLA_2
+    21300006: TABLA_3
+    21300008: TABLA_4
+    21300010: TABLA_5
+    21300012: TABLA_6
+    21300014: TABLA_7
+    21300016: TABLA_8
+    21300018: TABLA_9
+    21300020: TABLA_10
+    21300022: TABLA_11
+    21300024: TABLA_12
+    21300026: TABLA_13
+    21300028: TABLA_14
+    21300030: TABLA_15
+    21300032: TABLA_16
+    21300034: TABLA_17
+    21300036: TABLA_18
+    21300038: TABLA_19
+    21300040: TABLA_20
+    21300042: TABLA_21
+    21300044: TABLA_22
+    21300046: TABLA_23
+    21300048: TABLA_24
+    21300050: TABLA_25
+    21300052: TABLA_26
+    21300054: TABLA_27
+    21300056: TABLA_28
+    21300058: TABLA_29
+    21300060: TABLA_30
+    21300062: TABLA_31
+    21300064: TABLA_32
+    21300066: TABLA_33
+    21300068: TABLA_34
+    21300070: TABLA_35
+    21300072: TABLA_36
+    21300074: TABLA_37
+    21300076: TABLA_38
+    21300078: TABLA_39
+    21300080: TABLA_40
+    21300082: TABLA_41
+    21300084: TABLA_42
+    21300086: TABLA_43
+    21300088: TABLA_44
+    21300090: TABLA_45
+    21300092: TABLA_46
+    21300094: TABLA_47
+    21300096: TABLA_48
+    21300098: TABLA_49
+    21300100: TABLA_50
+    21300102: TABLA_51
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TABLA_0
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_1
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_2
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_3
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_6
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_7
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_8
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_9
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_10
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_11
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_12
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 780
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.49723}
+        - {x: 66.5, y: -91.49723}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_13
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_14
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_15
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_16
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_17
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_18
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_19
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_20
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_21
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_23
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_24
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_25
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 577
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.5}
+        - {x: 66.5, y: -91.5}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_27
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_28
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.42774, y: 91.5}
+        - {x: -66.42774, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_29
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_30
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.086395, y: 91.5}
+        - {x: -66.086395, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_31
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.47558, y: 91.5}
+        - {x: -66.47558, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_32
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_33
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.13423, y: 91.5}
+        - {x: -66.13423, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_34
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_35
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_36
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.18207, y: 91.5}
+        - {x: -66.18207, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_37
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.5, y: 91.5}
+        - {x: -66.5, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_38
+      rect:
+        serializedVersion: 2
+        x: 2104
+        y: 374
+        width: 133
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      physicsShape:
+      - - {x: -66.40061, y: 91.5}
+        - {x: -66.40061, y: -91.433304}
+        - {x: 66.5, y: -91.433304}
+        - {x: 66.5, y: 91.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 223
+        width: 593
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -296.5, y: 66}
+        - {x: -296.5, y: -66}
+        - {x: 296.5, y: -66}
+        - {x: 296.5, y: 66}
+      physicsShape:
+      - - {x: -296.5, y: 66}
+        - {x: -296.5, y: -66}
+        - {x: 296.5, y: -66}
+        - {x: 296.5, y: 66}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_46
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 225
+        width: 595
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -297.33276, y: 65}
+        - {x: -297.33276, y: -64.5656}
+        - {x: 297.5, y: -64.5656}
+        - {x: 297.5, y: 65}
+      physicsShape:
+      - - {x: -297.33276, y: 65}
+        - {x: -297.33276, y: -64.5656}
+        - {x: 297.5, y: -64.5656}
+        - {x: 297.5, y: 65}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_47
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 41
+        width: 307
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153.5, y: 86.5}
+        - {x: -153.5, y: -86.5}
+        - {x: 153.5, y: -86.5}
+        - {x: 153.5, y: 86.5}
+      physicsShape:
+      - - {x: -153.5, y: 86.5}
+        - {x: -153.5, y: -86.5}
+        - {x: 153.5, y: -86.5}
+        - {x: 153.5, y: 86.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_48
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 221
+        width: 601
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300.5, y: 67}
+        - {x: -300.5, y: -66.88533}
+        - {x: 300.5, y: -66.88533}
+        - {x: 300.5, y: 67}
+      physicsShape:
+      - - {x: -300.5, y: 67}
+        - {x: -300.5, y: -66.88533}
+        - {x: 300.5, y: -66.88533}
+        - {x: 300.5, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_49
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 41
+        width: 283
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -141.2803, y: 85.5}
+        - {x: -141.2803, y: -85.5}
+        - {x: 141.5, y: -85.5}
+        - {x: 141.5, y: 85.5}
+      physicsShape:
+      - - {x: -141.2803, y: 85.5}
+        - {x: -141.2803, y: -85.5}
+        - {x: 141.5, y: -85.5}
+        - {x: 141.5, y: 85.5}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_50
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 39
+        width: 311
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -155.5, y: 86}
+        - {x: -155.5, y: -85.899666}
+        - {x: 155.5, y: -85.899666}
+        - {x: 155.5, y: 86}
+      physicsShape:
+      - - {x: -155.5, y: 86}
+        - {x: -155.5, y: -85.899666}
+        - {x: 155.5, y: -85.899666}
+        - {x: 155.5, y: 86}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_39
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 221
+        width: 601
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -300.5, y: 67}
+        - {x: -300.5, y: -66.88533}
+        - {x: 300.5, y: -66.88533}
+        - {x: 300.5, y: 67}
+      physicsShape:
+      - - {x: -300.5, y: 67}
+        - {x: -300.5, y: -66.88533}
+        - {x: 300.5, y: -66.88533}
+        - {x: 300.5, y: 67}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 673
+        width: 259
+        height: 306
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 7, w: 12}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 369
+        width: 252
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 7}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_42
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 45
+        width: 281
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_43
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 45
+        width: 297
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: TABLA_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 46
+        width: 287
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

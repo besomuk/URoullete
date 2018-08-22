@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - CHIP_05
+  - CHIP_10
+  - CHIP
+  - Ostajem
+  - Stack
+  - CHIP_WIN_SHADOW
+  - CHIP_WIN_SHADOW_PROTO
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - RegularFields
+  - Chips
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Table
+    uniqueID: 340560553
+    locked: 0
+  - name: Chips
+    uniqueID: 118339399
+    locked: 0
+  - name: Wheel_Static
+    uniqueID: 2894532117
+    locked: 0
+  - name: Wheel_Dynamic
+    uniqueID: 1269998593
+    locked: 0
+  - name: Wheel_Ball
+    uniqueID: 2274451937
+    locked: 0
